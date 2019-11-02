@@ -1,0 +1,2 @@
+# CurrencyCrawlerChineseNovels
+适用于大多数网站的小说搜索下载
