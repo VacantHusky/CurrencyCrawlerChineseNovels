@@ -23,17 +23,10 @@ exe可执行程序下载
 ## 二、预览
 
 搜索界面：
-
-
+[搜索界面](githubimg/search.png)
 
 展示界面：
-
-
-
-下载：
-
-
-
+[展示界面](githubimg/search2.png)
 
 
 ## 三、项目部署使用
