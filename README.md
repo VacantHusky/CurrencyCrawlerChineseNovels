@@ -4,7 +4,7 @@
 
 如果你只是想使用这个软件，请阅读[这个（暂时没写）](README_ABOUT.md)。
 
-exe可执行程序下载：
+exe程序下载：[点我下载](https://github.com/VacantHusky/CurrencyCrawlerChineseNovels/releases/download/Novels/CrawlerNovels-1.0.rar)
 
 ---
 
